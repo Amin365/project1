@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000';
+const API_URL = 'http://localhost:5000/api';
 
 // Fetch and display tasks
 function fetchTasks() {
